@@ -5,7 +5,6 @@ C:\Users\XPS\Desktop\Nouveaudossier_7\nexapp\MonApp\MonApi\obj\Debug\net8.0\MonA
 C:\Users\XPS\Desktop\Nouveaudossier_7\nexapp\MonApp\MonApi\obj\Debug\net8.0\MonApi.csproj.CoreCompileInputs.cache
 C:\Users\XPS\Desktop\Nouveaudossier_7\nexapp\MonApp\MonApi\obj\Debug\net8.0\MonApi.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\XPS\Desktop\Nouveaudossier_7\nexapp\MonApp\MonApi\obj\Debug\net8.0\MonApi.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\XPS\Desktop\Nouveaudossier_7\nexapp\MonApp\MonApi\obj\Debug\net8.0\MonApi.sourcelink.json
 C:\Users\XPS\Desktop\Nouveaudossier_7\nexapp\MonApp\MonApi\bin\Debug\net8.0\appsettings.Development.json
 C:\Users\XPS\Desktop\Nouveaudossier_7\nexapp\MonApp\MonApi\bin\Debug\net8.0\appsettings.json
 C:\Users\XPS\Desktop\Nouveaudossier_7\nexapp\MonApp\MonApi\bin\Debug\net8.0\MonApi.exe

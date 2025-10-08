@@ -7,20 +7,20 @@ namespace MonApi.Controllers
     public class CalculController : ControllerBase
     {
         [HttpGet("add")]
-        public double Addition(double a, double b) => a + b;
+        public string Addition(double a, double b) =>"la resultat de l'addition est:"+ (a + b).ToString();
 
         [HttpGet("sub")]
-        public double Soustraction(double a, double b) => a - b;
+        public string Soustraction(double a, double b) =>"la resultat de soustraction est" +(a - b).ToString();
 
         [HttpGet("mul")]
-        public double Multiplication(double a, double b) => a * b;
+        public string Multiplication(double a, double b) => "la resultat de multiplication est "+(a * b).ToString();
 
         [HttpGet("div")]
-        public ActionResult<double> Division(double a, double b)
+        public ActionResult<string> Division(double a, double b)
         {
             if (b == 0)
                 return BadRequest("Erreur : division par zéro !");
-            return a / b;
+            return "la resultat de la division est :"+(a / b).ToString();
         }
     }
 }
